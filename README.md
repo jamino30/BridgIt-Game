@@ -16,6 +16,11 @@ Refer to the following for more detailed gameplay information: https://digitalco
 5. Utilizes Breadth-first search (BFS) to determine game winner
 
 ## Screenshots
-<img src="https://raw.githubusercontent.com/jamino30/BridgIt-Game/res/img/start-game.png" alt="Start Game" />
-<img src="https://raw.githubusercontent.com/jamino30/BridgIt-Game/res/img/mid-game.png" alt="Mid Game" />
-<img src="https://raw.githubusercontent.com/jamino30/BridgIt-Game/res/img/end-game.png" alt="End Game" />
+<img src="https://github.com/jamino30/BridgIt-Game/blob/main/res/img/start-game.png" alt="Start Game"/>
+<img src="https://github.com/jamino30/BridgIt-Game/blob/main/res/img/mid-game.png" alt="Mid Game"/>
+<img src="https://github.com/jamino30/BridgIt-Game/blob/main/res/img/end-game.png" alt="End Game"/>
+
+## Licensing
+Copyright (c) Jai Amin. All rights reserved.
+
+Licensed under the [MIT License](./LICENSE).
