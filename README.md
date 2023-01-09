@@ -1,5 +1,5 @@
-## What is Bridg-It?
-Bridg-It is a simple, two-player connection board game. The board consists of two rectangular arrays of
+## What is Bridges?
+Bridges is based on the renowned Bridg-It game, a simple, two-player connection board game. The board consists of two rectangular arrays of
 dots, one array for each player. The players move by alternately connecting two dots
 within their array to form a line or bridge. The objective for player one is to build a
 bridge from left to right and the objective for player two is to build a bridge from top to
